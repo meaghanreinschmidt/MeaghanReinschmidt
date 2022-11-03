@@ -1,4 +1,4 @@
-<p align="center"> <img src=![pexels-felix-mittermeier-956981](https://user-images.githubusercontent.com/98852538/199826796-603bd0f7-fd13-41a0-826c-053e481938df.jpg) alt="meaghanreinschmidt" />Hi, I'm Meaghan!</p>
+<p align="center"> <img src=![pexels-felix-mittermeier-956981](https://user-images.githubusercontent.com/98852538/199826796-603bd0f7-fd13-41a0-826c-053e481938df.jpg) alt="meaghanreinschmidt" /></p>
 
 ### Hi, I'm Meaghan!
 
