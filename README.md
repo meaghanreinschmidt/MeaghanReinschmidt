@@ -1,6 +1,4 @@
-<p align="center"> <img src="https://user-images.githubusercontent.com/98852538/199826796-603bd0f7-fd13-41a0-826c-053e481938df.jpg" alt="meaghanreinschmidt" /></p>
-
-[![MasterHead](./biobanner.png)](https://github.com/meaghanreinschmidt)
+<p align="center"> <img width="942" alt="Screen Shot 2022-11-03 at 3 46 49 PM" src="https://user-images.githubusercontent.com/98852538/199830714-f00fe1a3-af34-40bd-a480-412f49d8665e.png" /></p>
 
 ### Hi, I'm Meaghan!
 
