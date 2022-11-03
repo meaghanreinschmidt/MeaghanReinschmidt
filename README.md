@@ -1,4 +1,6 @@
-<p align="center"> <img src=![pexels-felix-mittermeier-956981](https://user-images.githubusercontent.com/98852538/199826796-603bd0f7-fd13-41a0-826c-053e481938df.jpg) alt="meaghanreinschmidt" /></p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/98852538/199826796-603bd0f7-fd13-41a0-826c-053e481938df.jpg" alt="meaghanreinschmidt" /></p>
+
+[![MasterHead](./biobanner.png)](https://github.com/meaghanreinschmidt)
 
 ### Hi, I'm Meaghan!
 
