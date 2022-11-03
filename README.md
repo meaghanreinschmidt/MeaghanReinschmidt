@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Meaghan!
+
+#### A creative and passionate full-stack developer in the Twin Cities!
 
 <!--
 **meaghanreinschmidt/MeaghanReinschmidt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
