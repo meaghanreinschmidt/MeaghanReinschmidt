@@ -1,3 +1,5 @@
+<p align="center"> <img src= alt="meaghanreinschmidt" /> </p>
+
 ### Hi, I'm Meaghan!
 
 #### A creative and passionate full-stack developer in the Twin Cities!
