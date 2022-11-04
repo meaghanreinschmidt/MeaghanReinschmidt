@@ -1,7 +1,10 @@
 <p align="center"> <img width="942" alt="Screen Shot 2022-11-03 at 3 46 49 PM" src="https://user-images.githubusercontent.com/98852538/199830714-f00fe1a3-af34-40bd-a480-412f49d8665e.png" /></p>
-
-![Meaghan's GitHub stats](https://github-readme-stats.vercel.app/api?username=meaghanreinschmidt&show_icons=true&theme=cobalt)
+<br />
+<center>
+![Meaghan's GitHub stats](https://github-readme-stats.vercel.app/api?username=meaghanreinschmidt&show_icons=true&theme=tokyonight)
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meaghanreinschmidt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</center>
 
 - 🔭 I’m currently working on [Goblin Squat](https://github.com/meaghanreinschmidt/goblin-squat)
 - 🌱 I’m currently learning **C# and .NET framework**
