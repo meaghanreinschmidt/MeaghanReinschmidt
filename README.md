@@ -1,7 +1,7 @@
 <p align="center"> <img width="942" alt="Screen Shot 2022-11-03 at 3 46 49 PM" src="https://user-images.githubusercontent.com/98852538/199830714-f00fe1a3-af34-40bd-a480-412f49d8665e.png" /></p>
 
   <p align="center">
-    <a href="https://github.com/meaghanreinschmidt/github-readme-stats/actions">
+    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
       <img alt="Tests Passing" src="https://github.com/meaghanreinschmidt/github-readme-stats/workflows/Test/badge.svg" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats/graphs/contributors">
