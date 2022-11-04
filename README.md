@@ -44,6 +44,8 @@
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=meaghanreinschmidt&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
-<p align="center"><img width="42%" align="left" src="https://github-readme-stats.vercel.app/api?username=meaghanreinschmidt&show_icons=true&theme=radical" /></p>
+<p align="center">
+ <img width="42%" src="https://github-readme-stats.vercel.app/api?username=meaghanreinschmidt&show_icons=true&theme=radical" />
+</p>
  
 
