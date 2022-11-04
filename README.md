@@ -14,6 +14,7 @@
 </p>
 
 <h2 align="center">About Me</h2>
+
 - 🔭 I’m currently working on [Goblin Squat](https://github.com/meaghanreinschmidt/goblin-squat)
 - 🌱 I’m currently learning **C# and .NET framework**
 - 👯 I’m looking to collaborate on **a fun and creative project!**
@@ -25,10 +26,10 @@
 
 <p align="center">
 <a href="mailto: reinschmidtmeaghan@gmail.com">
- <img src="https://img.shields.io/badge/-ritikpr307-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:reinschmidtmeaghan@gmail.com"/>
+ <img src="https://img.shields.io/badge/-reischmidtmeaghan-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:reinschmidtmeaghan@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/meaghan-reinschmidt-312578230/">
- <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meaghan-reinschmidt-312578230/"/>
+ <img src="https://img.shields.io/badge/-meaghanreinschmidt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meaghan-reinschmidt-312578230/"/>
 </a>
 </p>
 
