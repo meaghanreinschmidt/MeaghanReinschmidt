@@ -2,6 +2,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meaghanreinschmidt&theme=radical"/></a> </p>
 
+<h2 align="center">Technology Stack</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
@@ -31,6 +32,13 @@
 <a href="https://www.linkedin.com/in/meaghan-reinschmidt-312578230/">
  <img src="https://img.shields.io/badge/-meaghanreinschmidt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meaghan-reinschmidt-312578230/"/>
 </a>
+</p>
+
+<h2 align="center">
+  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+</h2>
+<p align="center">
+  <img src="https://github.com/meaghanreinschmidt/MeaghanReinschmidt/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 <h2 align="center">My Stats</h2>
