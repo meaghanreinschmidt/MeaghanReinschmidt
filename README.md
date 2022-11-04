@@ -1,6 +1,6 @@
 <p align="center"> <img width="942" alt="Screen Shot 2022-11-03 at 3 46 49 PM" src="https://user-images.githubusercontent.com/98852538/199830714-f00fe1a3-af34-40bd-a480-412f49d8665e.png" /></p>
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meaghanreinschmidt)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on [Goblin Squat](https://github.com/meaghanreinschmidt/goblin-squat)
 - 🌱 I’m currently learning **C# and .NET framework**
