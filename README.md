@@ -1,6 +1,6 @@
 <p align="center"> <img width="942" alt="Screen Shot 2022-11-03 at 3 46 49 PM" src="https://user-images.githubusercontent.com/98852538/199830714-f00fe1a3-af34-40bd-a480-412f49d8665e.png" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meaghanreinschmidt"/></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meaghanreinschmidt&theme=radical"/></a> </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
