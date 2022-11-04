@@ -13,3 +13,5 @@
 - 💬 Ask me about **Javascript, React, Redux, PostgreSQL, Material UI**
 - 📫 How to reach me: **reinschmidtmeaghan@gmail.com**
 - ⚡ Fun fact: **I love trying new things! This year I tried out for a football team, learned how to code, and moved to a new city!**
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meaghanreinschmidt)](https://git.io/streak-stats)
