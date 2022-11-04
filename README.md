@@ -1,23 +1,19 @@
 <p align="center"> <img width="942" alt="Screen Shot 2022-11-03 at 3 46 49 PM" src="https://user-images.githubusercontent.com/98852538/199830714-f00fe1a3-af34-40bd-a480-412f49d8665e.png" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meaghanreinschmidt" alt="venomidas" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meaghanreinschmidt"/></a> </p>
 
 <p align="center">
-![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![image](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![image](https://img.shields.io/badge/Redux%20saga-86D46B?style=for-the-badge&logo=redux%20saga&logoColor=999999)
-![image](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
+<h2 align="center">About Me</h2>
 - 🔭 I’m currently working on [Goblin Squat](https://github.com/meaghanreinschmidt/goblin-squat)
 - 🌱 I’m currently learning **C# and .NET framework**
 - 👯 I’m looking to collaborate on **a fun and creative project!**
@@ -25,7 +21,27 @@
 - 📫 How to reach me: **reinschmidtmeaghan@gmail.com**
 - ⚡ Fun fact: **I love trying new things! This year I tried out for a football team, learned how to code, and moved to a new city!**
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=meaghanreinschmidt&theme=radical)](https://git.io/streak-stats)
+<h2 align="center">Reach me out on</h2>
+
+<p align="center">
+<a href="mailto: reinschmidtmeaghan@gmail.com">
+ <img src="https://img.shields.io/badge/-ritikpr307-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:reinschmidtmeaghan@gmail.com"/>
+</a>
+<a href="https://www.linkedin.com/in/meaghan-reinschmidt-312578230/">
+ <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meaghan-reinschmidt-312578230/"/>
+</a>
+</p>
+
+<h2 align="center">My Stats</h2>
+
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=meaghanreinschmidt&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=meaghanreinschmidt&theme=radical">
+</p>
+
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=meaghanreinschmidt&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
 
 <p><img width="42%" align="left" src="https://github-readme-stats.vercel.app/api?username=meaghanreinschmidt&show_icons=true&theme=radical" /><img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=meaghanreinschmidt&show_icons=true&locale=en" /></p>
  
