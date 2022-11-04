@@ -1,6 +1,6 @@
 <p align="center"> <img width="942" alt="Screen Shot 2022-11-03 at 3 46 49 PM" src="https://user-images.githubusercontent.com/98852538/199830714-f00fe1a3-af34-40bd-a480-412f49d8665e.png" /></p>
 
-[![GitLab commit count](https://badgen.net/gitlab/commits/meaghanreinschmidt/HomelabOS/)](https://gitlab.com/meaghanreinschmidt/HomelabOS/-/commits)
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 
 <p align="center">
 
