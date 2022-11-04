@@ -6,7 +6,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meaghanreinschmidt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
 - 🔭 I’m currently working on [Goblin Squat](https://github.com/meaghanreinschmidt/goblin-squat)
 - 🌱 I’m currently learning **C# and .NET framework**
 - 👯 I’m looking to collaborate on **a fun and creative project!**
@@ -14,4 +13,4 @@
 - 📫 How to reach me: **reinschmidtmeaghan@gmail.com**
 - ⚡ Fun fact: **I love trying new things! This year I tried out for a football team, learned how to code, and moved to a new city!**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meaghanreinschmidt)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=meaghanreinschmidt&theme=tokyonight)](https://git.io/streak-stats)
