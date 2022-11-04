@@ -1,7 +1,4 @@
-<p align="center"> <img width="942" alt="Screen Shot 2022-11-03 at 3 46 49 PM" src="https://user-images.githubusercontent.com/98852538/199830714-f00fe1a3-af34-40bd-a480-412f49d8665e.png" /></p>
-[![GitHub commits](https://badgen.net/github/commits/meaghanreinschmidt/Strapdown.js)](https://GitHub.com/meaghanreinschmidt/StrapDown.js/commit/)
- <img src="https://badges.pufler.dev/repos/meaghanreinschmidt"/>
-[![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
+<p align="center"> 
 [![Sparkline](https://stars.medv.io/meaghanreinschmidt/badges.svg)](https://stars.medv.io/meaghanreinschmidt/badges)
 
 <p align="center">
